@@ -14,7 +14,7 @@ export default function App() {
         <Dictionary defaultKeyword="nostalgia" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Andy</small>
+          <small>Coded by Andy and it is <a href="https://github.com/Licia27/dictionary-project" target="_blank" rel="noopener noreferrer"> Open Sourced</a></small>
         </footer>
       </div>
     </div>
